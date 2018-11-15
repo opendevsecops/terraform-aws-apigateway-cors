@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/63ea6234f14a412fbf3951963bdb3908)](https://www.codacy.com/app/OpenDevSecOps/terraform-aws-apigateway-cors?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=opendevsecops/terraform-aws-apigateway-cors&amp;utm_campaign=Badge_Grade)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/opendevsecops.svg?logo=twitter)](https://twitter.com/opendevsecops)
 
 # AWS API Gateway CORS Terraform Module
